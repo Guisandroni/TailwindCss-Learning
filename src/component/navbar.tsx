@@ -10,6 +10,9 @@ export const Navbar  = () =>{
                 <li>
                     <Link to='/photos'>Page Photograph</Link>
                 </li>
+                <li>
+                    <Link to='/groups'>Page Groups</Link>
+                </li>
             </ul>
         </div>
     )
